@@ -6,6 +6,7 @@ public class Runner {
         System.out.println("This is line 2");
         System.out.println("This is line 3");
         System.out.println("Greetings from User 2");
+        System.out.println("User 1 change");
 
         Calculator calculator = new Calculator();
         int sum = calculator.add(5, 7);
