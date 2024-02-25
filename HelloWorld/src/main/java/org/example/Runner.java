@@ -7,7 +7,6 @@ public class Runner {
         System.out.println("This is line 3");
         System.out.println("Greetings from User 2");
         System.out.println("User 1 change");
-        System.out.println("User 1 change");
         System.out.println("this change was made by User 2");
 
         Calculator calculator = new Calculator();
