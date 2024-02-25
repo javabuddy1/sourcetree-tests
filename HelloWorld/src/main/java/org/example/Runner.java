@@ -8,7 +8,6 @@ public class Runner {
         System.out.println("Greetings from User 2");
         System.out.println("User 1 change");
         System.out.println("this change was made by User 2");
-        System.out.println("This is another change to Runner by User 1");
 
         Calculator calculator = new Calculator();
         int sum = calculator.add(5, 7);
